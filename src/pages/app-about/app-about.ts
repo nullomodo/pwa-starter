@@ -33,6 +33,8 @@ export class AppAbout extends LitElement {
           <p>PWAs have access to many useful APIs in modern browsers! These
             APIs have enabled many new types of apps that can be built as PWAs, such as advanced graphics editing apps, games,
             apps that use machine learning and more!
+
+            This is a test!
           </p>
 
           <p>Check out <a
